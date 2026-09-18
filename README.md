@@ -97,7 +97,7 @@ Each villager has a cottage. Ada, Bram, and Nell tend the first two rows of thei
 | `game.js` | Rendering, world navigation, crop growth, crow behaviour, and game loop |
 | `village.js` | NPC routines, collision rules, dialogue, seed shop, inventory, and trading |
 | `assets/` | Terrain, crop, character, crow, building, and signpost sprite sheets |
-| `DEPLOY.txt` | Short deployment instructions |
+
 
 ## Deployment
 
